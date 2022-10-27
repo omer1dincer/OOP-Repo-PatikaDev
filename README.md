@@ -1,0 +1,1 @@
+This Repository Created For Patika.dev Java Back-End Path Exercises. [To see more](https://app.patika.dev/paths/baslangic-seviye-java-ile-backend-web-development-patikasi)
